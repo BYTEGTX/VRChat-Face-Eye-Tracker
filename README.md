@@ -42,8 +42,7 @@
 
 ---
 
-
-(image2.png)
-(image3.png)
-(image4.png)
-(image5.png)
+![Скриншот2](image2.png)
+![Скриншот3](image3.png)
+![Скриншот4](image4.png)
+![Скриншот5](image5.png)
