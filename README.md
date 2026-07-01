@@ -41,14 +41,3 @@
 - Сохранение/загрузка профилей в формате JSON.
 
 ---
-
-## 🚀 Архитектура и пайплайн
-
-```mermaid
-graph LR
-    Camera[Web-камера] --> OpenCV[VideoCapture]
-    OpenCV --> Detector[Детектор 468 точек]
-    Detector --> Solver[Геометрический решатель]
-    Solver --> Filter[Низкочастотный фильтр]
-    Filter --> OSC[OSC-отправка]
-    Filter --> UI[Vulkan + ImGui]
