@@ -41,3 +41,9 @@
 - Сохранение/загрузка профилей в формате JSON.
 
 ---
+
+
+(image2.png)
+(image3.png)
+(image4.png)
+(image5.png)
